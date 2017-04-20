@@ -1,5 +1,9 @@
 # zsh-gayman
 
+```
+$ man mount
+```
+
 ![](pics/manmount.png)
 
 zsh plugin for fabulous man pages.
