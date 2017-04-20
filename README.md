@@ -1,3 +1,13 @@
 # zsh-gayman
 
-zsh plugin to colour man pages
+![](pics/manmount.png)
+
+zsh plugin for fabulous man pages.
+
+# Install using zplug
+
+In .zshrc 
+
+```
+zplug "sthysel/zsh-gayman"
+```
