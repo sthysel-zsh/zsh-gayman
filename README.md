@@ -6,7 +6,7 @@ zsh plugin for fabulous man pages.
 
 # Install using zplug
 
-In .zshrc 
+Using [zplug](https://github.com/zplug/zplug) in .zshrc 
 
 ```
 zplug "sthysel/zsh-gayman"
