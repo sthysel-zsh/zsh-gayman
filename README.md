@@ -13,5 +13,5 @@ zsh plugin for fabulous man pages.
 Using [zplug](https://github.com/zplug/zplug) in .zshrc 
 
 ```
-zplug "sthysel/zsh-gayman"
+zplug "sthyselzsh/zsh-gayman"
 ```
